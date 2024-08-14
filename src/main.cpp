@@ -1,6 +1,6 @@
 ﻿#include "board.h"
 
-//enjoy!
+//enjoy!!
 int main()
 {
 	Board world;
